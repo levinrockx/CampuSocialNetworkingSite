@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+.profilephoto
+{
+	height:270px;
+	width:270px;
+}
+.information br
+{
+	padding-top:10px;
+}
